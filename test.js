@@ -1,2 +1,2 @@
-const a = 'fuck mireu'
+const a = 'sex'
 console.log(a)
