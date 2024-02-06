@@ -3,7 +3,8 @@
 프로젝트 소개 글 작성하기 (작성 필요)
 
 ## 화면 예시
-![홈 화면](../images/home.png)
+![사진 업로드](../images/upload_image.png)
+![사진 촬영](../images/take_photo.png)
 
 ## 기능 구현 목록
 
