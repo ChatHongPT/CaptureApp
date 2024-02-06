@@ -1,2 +1,3 @@
-const a = 'sex'
-console.log(a)
+const a = "hello";
+const b = "world";
+console.log(a + " " + b);
